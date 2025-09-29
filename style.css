@@ -1,7 +1,8 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizzing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
 h2 {
