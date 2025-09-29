@@ -1,0 +1,42 @@
+// seletor ( propriedade: valor 
+
+// seletor Global
+
+*{
+    margin:0;
+    padding:0;
+    box-sizzing: border-box;
+}
+
+h2{
+    color: red;
+
+}
+
+// class
+
+.card{
+    border: solid;
+    width: 30vw;
+    padding: 10px;
+    border-radius: 10px;
+    // height: 40vh;
+
+    img{
+        //  % se ajusta de acordo com a caixa pai, nesse caso .card
+
+        width: 100%;
+    }
+
+    button{
+        width: 100%;
+        background-color: red;
+    }
+
+}
+
+// Medidas
+
+// Fixas: são medias que não se adaptam a tela. (PX) usar para detalhes menores como border-radius.
+// Relativas: são medidas que se adaptam com responsividade a tela. (%, VH, VW) {
+// vh =  viewport height (altura) / vw = viewport width (largura)

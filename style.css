@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizzing: border-box;
+}
+
+h2 {
+  color: red;
+}
+
+.card {
+  border: solid;
+  width: 30vw;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card button {
+  width: 100%;
+  background-color: red;
+}
+/*# sourceMappingURL=style.css.map */
